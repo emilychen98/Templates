@@ -1,0 +1,7 @@
+## Commands:
+* Install dependencies: npm install
+* Start server: npm run server
+* Start db: sudo systemctl start mongod
+    * show dbs
+    * use db
+    * db.collectionName.find() - show all contents from a collection
