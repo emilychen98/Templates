@@ -1,0 +1,4 @@
+Installations
+-------------------------------------------------------
+In client folder: create-react-app .
+npm i bootstrap reactstrap uuid react-transition-group
